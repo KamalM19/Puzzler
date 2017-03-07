@@ -42,12 +42,6 @@ public class DotButton extends JButton {
      */
 
     public DotButton(int row, int column, int color, int iconSize) {
-        this.color = color;
-        this.column = column;
-        this.color = color;
-        this.iconSize = iconSize;
-
-// ADD YOUR CODE HERE
 
    }
 
@@ -62,10 +56,8 @@ public class DotButton extends JButton {
      */   
     public DotButton(int color, int iconSize) {
         
-
-
-// ADD YOUR CODE HERE
-
+        this.color = color; 
+        this.iconSize = iconSize; 
     }
  
 
