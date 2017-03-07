@@ -112,9 +112,9 @@ public class DotButton extends JButton {
         return column; 
  
     }
+    
+    
 
-
-// ADD YOUR PRIVATE METHODS HERE (IF USING ANY)
 
 
 }
