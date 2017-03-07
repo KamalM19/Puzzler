@@ -9,13 +9,10 @@
 
 public class GameController implements ActionListener {
 
- // ADD YOUR INSTANCE VARIABLES HERE
- 
+ // instance variables 
+	
 	private int size;
 	private GameModel game;
-	
-	
-
 
     /**
      * Constructor used for initializing the controller. It creates the game's view 
@@ -27,9 +24,6 @@ public class GameController implements ActionListener {
     public GameController(int size) {
 		this.size = size;
 		return size;
-	
-// ADD YOUR CODE HERE
-
     }
 
     /**
