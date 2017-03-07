@@ -108,8 +108,8 @@ public class DotButton extends JButton {
      */
 
     public int getColumn() {
-
-// ADD YOUR CODE HERE
+        
+        return column; 
  
     }
 
