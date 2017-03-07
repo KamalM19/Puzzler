@@ -72,9 +72,7 @@ public class DotButton extends JButton {
      */
 
     public void setColor(int color) {
-
-// ADD YOUR CODE HERE
-
+        color;
    }
 
     /**
@@ -83,8 +81,7 @@ public class DotButton extends JButton {
      * @return color
      */
     public int getColor(){
-
-// ADD YOUR CODE HERE
+        return color; 
 
     }
  
