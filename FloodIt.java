@@ -16,6 +16,8 @@ public class FloodIt {
      *            command line parameters
      */
      public static void main(String[] args) {
+        GameContoller game = new GameController;
+        
 
 // ADD YOUR CODE HERE
 
