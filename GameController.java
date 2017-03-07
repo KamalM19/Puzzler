@@ -31,9 +31,6 @@ public class GameController implements ActionListener {
      */
     public void reset(){
 		game.reset();
-
-// ADD YOUR CODE HERE
-
     }
 
     /**
@@ -44,10 +41,10 @@ public class GameController implements ActionListener {
      */
 
     public void actionPerformed(ActionEvent e) {
-
-// ADD YOUR CODE HERE
-
+	    if(e.getActionCommand().equals("reset"){
+		    reset(); 
     }
+	       if(e.getActionCommand
 
     /**
      * <b>selectColor</b> is the method called when the user selects a new color.
